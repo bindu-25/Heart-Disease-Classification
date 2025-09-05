@@ -23,7 +23,7 @@ Exercise Induced Angina (exang), ST Depression (oldpeak), Slope of Peak Exercise
 
 Number of Major Vessels (ca), Thalium Stress Test Result (thal)
 
-Objectives
+Objectives-
 
 Predict heart disease risk using multiple machine learning models.
 
